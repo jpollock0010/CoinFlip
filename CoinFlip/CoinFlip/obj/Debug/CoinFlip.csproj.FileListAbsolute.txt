@@ -1,0 +1,6 @@
+C:\Users\Jamie\Documents\My Code\_My Programs\CoinFlip\CoinFlip\bin\Debug\CoinFlip.exe.config
+C:\Users\Jamie\Documents\My Code\_My Programs\CoinFlip\CoinFlip\bin\Debug\CoinFlip.exe
+C:\Users\Jamie\Documents\My Code\_My Programs\CoinFlip\CoinFlip\bin\Debug\CoinFlip.pdb
+C:\Users\Jamie\Documents\My Code\_My Programs\CoinFlip\CoinFlip\obj\Debug\CoinFlip.csprojResolveAssemblyReference.cache
+C:\Users\Jamie\Documents\My Code\_My Programs\CoinFlip\CoinFlip\obj\Debug\CoinFlip.exe
+C:\Users\Jamie\Documents\My Code\_My Programs\CoinFlip\CoinFlip\obj\Debug\CoinFlip.pdb
